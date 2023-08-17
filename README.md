@@ -82,10 +82,7 @@ and discover local restaurants, cafes, and eateries. Whether you're a food enthu
 for new culinary experiences or a traveller seeking the best dining spots in town, Local
 Dining Guide has got you covered</p>
 
-<<<<<<< HEAD
-=======
 
->>>>>>> development
 ![image](https://github.com/tanveerbjit/practice_demo/assets/141292208/ebb51f6a-9197-4d23-8476-e59caf7ca65e)
 # Table of Contents
 <ul>
