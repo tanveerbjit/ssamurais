@@ -30,6 +30,20 @@
 </ul>
 </br>
 <p><i><a href="https://bjitacademy.com/">Click</a> here for more detail</i></p>
+# ssamurais
+
+## Contact Information
+*For any inquiries or support, please email us at support@localdiningguide.com or visit our 
+website [http://www.localdiningguide.com](http://www.localdiningguide.com)*
+
+### Follow us on social media:
+**Twitter**: @localdiningguide
+**Facebook**: LocalDiningGuide
+**Instagram**: @localdiningguide
+
+We hope you enjoy using Local Dining Guide to discover fantastic dining options in your 
+area! Bon appétit! :fork_and_knife:
+
 # Usage
 
 - **Search for Restaurants:** Use the search functionality to find dining options 
@@ -97,7 +111,6 @@ provide users with comprehensive dining information, making it easy for them to 
 and discover local restaurants, cafes, and eateries. Whether you're a food enthusiast looking
 for new culinary experiences or a traveller seeking the best dining spots in town, Local
 Dining Guide has got you covered</p>
-
 
 ![image](https://github.com/tanveerbjit/practice_demo/assets/141292208/ebb51f6a-9197-4d23-8476-e59caf7ca65e)
 # Table of Contents
