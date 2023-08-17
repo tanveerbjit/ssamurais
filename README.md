@@ -1,3 +1,17 @@
+# ssamurais
+
+## Contact Information
+*For any inquiries or support, please email us at support@localdiningguide.com or visit our 
+website [http://www.localdiningguide.com](http://www.localdiningguide.com)*
+
+### Follow us on social media:
+**Twitter**: @localdiningguide
+**Facebook**: LocalDiningGuide
+**Instagram**: @localdiningguide
+
+We hope you enjoy using Local Dining Guide to discover fantastic dining options in your 
+area! Bon appétit! :fork_and_knife:
+
 
 # Usage
 
@@ -22,6 +36,7 @@ restaurant.
 | Contributor 3    | Email address 3 | Phone Number 1  |
 | Contributor 4    | Email address 4 | Phone Number 1  |
 | Contributor 5    | Email address 5 | Phone Number 1  |
+>>>>>>> development
 
 <h1>Getting Started</h1>
 </br>
@@ -67,7 +82,10 @@ and discover local restaurants, cafes, and eateries. Whether you're a food enthu
 for new culinary experiences or a traveller seeking the best dining spots in town, Local
 Dining Guide has got you covered</p>
 
+<<<<<<< HEAD
+=======
 
+>>>>>>> development
 ![image](https://github.com/tanveerbjit/practice_demo/assets/141292208/ebb51f6a-9197-4d23-8476-e59caf7ca65e)
 # Table of Contents
 <ul>
